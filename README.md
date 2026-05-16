@@ -13,4 +13,4 @@ streamlit run app.py
 Streamlit will open a new tab in your browser displaying the web app with a form pre-filled with the extracted merchant name, date, total amount and currency data that the user can review and edit. 
 
 ## Model/Prompt used:
-Google Gemini
+Google Gemini. Google Gemini came out with good responses on how to code my web app. 
