@@ -2,7 +2,7 @@
 This is the complete guide on displaying a form pre-filled with the extracted data that the user can review and edit in a web app. 
 
 ## How to run it:
-Install Visual Studio Code if you don't have it, open Visual Studio Code, open your terminal and run:
+## Install Visual Studio Code if you don't have it, open Visual Studio Code, open your terminal and run:
 
 pip install streamlit pandas
 
